@@ -2,9 +2,7 @@
 
 ## Project Overview
 
-This project explores retail sales data to identify sales trends, evaluate product performance, and understand customer purchasing behaviour.
-
-The goal is to turn raw sales data into useful business insights that can support better decision-making.
+This project explores retail sales data to identify sales trends, evaluate product performance, and understand customer purchasing behaviour.The goal is to turn raw sales data into useful business insights that can support better decision-making.
 
 Objectives
 
@@ -36,4 +34,4 @@ In progress.
  Author
  Yusuf suleiman
 
-Computer Science Graduate | Aspiring Data Analyst and Software Developer.
+Computer Science Graduate | Aspiring Data Analyst.
