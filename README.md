@@ -1,6 +1,6 @@
 # Retail Sales Analysis
 
-## Project Overview
+# Project Overview
 
 This project explores retail sales data to identify sales trends, evaluate product performance, and understand customer purchasing behaviour.The goal is to turn raw sales data into useful business insights that can support better decision-making.
 
